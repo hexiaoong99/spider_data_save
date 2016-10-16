@@ -6,7 +6,6 @@ Created on Sun Oct 02 08:17:27 2016
 """
 
 # coding=utf-8
-################################################ 
 import re
 import requests
 from lxml import etree
@@ -62,3 +61,4 @@ if __name__ == '__main__':
  
   for each in urls:
     spider(each)
+  print "All Done !"
