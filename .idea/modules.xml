@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Test/.idea/Test.iml" filepath="$USER_HOME$/PycharmProjects/Test/.idea/Test.iml" />
+      <module fileurl="file://$USER_HOME$/git/intern/.idea/intern.iml" filepath="$USER_HOME$/git/intern/.idea/intern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spider_data_save.iml" filepath="$PROJECT_DIR$/.idea/spider_data_save.iml" />
+    </modules>
+  </component>
+</project>
